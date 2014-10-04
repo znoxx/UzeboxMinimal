@@ -1,0 +1,17 @@
+C1	Capacitor ceramic	330nf	1	
+"C2,C3"	Capacitor ceramic	22pf	2	
+C5	Capacitor ceramic	100nf	1	
+C4	Capacitor electrolit	100mf	1	
+IC1	ATMEGA644-20PU			
+IC2	7805 Regulator		1	
+"JP1,JP2,JP3,JP4,JP5"	PLS-40 connector		1	 cut it to pieces :)
+LED1	LED	3mm	1	
+Q1	Crystal	28.63636 Mhz	1	
+D1	Diode	1N4001 	1	
+J1	Powerjack			
+"R1,R4,R12"	Resistor 0.125w	3K	4	
+"R2,R5,R7"	Resistor 0.125w	1.5K	3	
+"R3,R6,R8,R13"	Resistor 0.125w	750 Ohm	4	
+R14	Resistor 0.125w	160 Ohm	1	
+"R9,R10,R11"	Resistor 0.125w	75 Ohm	4	
+"S1,S2"	Button		2	
