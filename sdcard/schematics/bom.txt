@@ -1,0 +1,20 @@
+Partlist
+
+Exported from sdcard.brd at 13/10/14 22:13
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package  Library  Position (mm)         Orientation
+
+D1       1N4148DO35-7   DO35-7   diode    (9.8429 64.370853125) R180
+D2       1N4148DO35-7   DO35-7   diode    (20.311653125 64.374278125) R180
+JP1                     1X07     pinhead  (2.468659375 66.847653125) R270
+JP2                     1X07     pinhead  (29.818525 69.15326875) R270
+R1       150            R0805    resistor (6.523165625 71.8643625) R0
+R2       300            R0805    resistor (12.27610625 71.891471875) R0
+R3       150            R0805    resistor (6.53596875 69.4378125) R0
+R4       300            R0805    resistor (12.279684375 69.417925) R0
+R5       150            R0805    resistor (6.46664375 66.8897875) R0
+R6       300            R0805    resistor (12.514678125 66.8897875) R180
