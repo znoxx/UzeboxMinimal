@@ -4,6 +4,10 @@ UzeboxMinimal
 Uzebox minimal design. The goal - to creat reprodusable modular design with minimal set of components.
 Original project is located at http://uzebox.org
 
+Update 16-Oct-2014: Added video extension for AD725, same structure as in other projects (eagle,schematics,toner-transfer).
+Also untested version removed.
+Currently version is fully tested and confirmed working.
+
 Update 13-Oct-2014: Added SD Card adapter.
 eagle - To be opened with Eagle Cad 7.x.
 schematics - Schematics, top jumpers and placement. Also an example of microSD adapter soldering. 
