@@ -1,0 +1,6 @@
+Part	Value	Type
+D1	1N4148	Diode DO35-7
+"R1,R2"	220 Ohm	Resistor 0.125w
+OK1	PC110	Optocoupler DIL06
+UART 	x10 male pinhead	2.54 mm
+MIDI	"x3 male pinhead, central connector cut"	2.54 mm
